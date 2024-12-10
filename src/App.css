@@ -1,0 +1,14 @@
+body.high-contrast {
+  background-color: black;
+  color: white;
+}
+
+button {
+  margin: 5px;
+  padding: 8px;
+}
+
+.map-container {
+  height: 80vh;
+  width: 50%;
+}

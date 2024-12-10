@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ICT Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.3556, 7.5134]
+      }
+    }
+  ]
+}

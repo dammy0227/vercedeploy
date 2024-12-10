@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campus Boundary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [3.3550, 7.5130],
+            [3.3560, 7.5130],
+            [3.3560, 7.5140],
+            [3.3550, 7.5140],
+            [3.3550, 7.5130]
+          ]
+        ]
+      }
+    }
+  ]
+}
